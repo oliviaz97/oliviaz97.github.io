@@ -17,7 +17,7 @@ html, body
 
 .wrapper
 {
-  background-color: lightblue;
+  background-color: rosybrown;
 
   max-width: 100%;
   display: flex;
@@ -59,7 +59,7 @@ html, body
 
 .left
 {
-  background-color: lightgrey;
+  background-color: rosybrown;
 
   margin: 110px;
   max-width: 30%;
@@ -71,7 +71,7 @@ html, body
 
 .right
 {
-  background-color: lightgrey;
+  background-color: rosybrown;
 
   margin: 30px;
   max-width: 100%;
