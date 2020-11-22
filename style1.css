@@ -72,31 +72,46 @@ li
   margin: 5px;
 }
 
+h4
+{
+  margin: 13px;
+}
+
+.button
+{
+  margin-bottom: 5px;
+}
+
 .links
 {
   list-style-type: none;
-  padding-left: 0px;
   font-size: 18px;
 }
 
-.links a:link
+.links a
 {
-  color: bluegrey;
-}
-
-.links a:visited
-{
-  color: teal;
+  padding: 5px;
+  outline: none;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 0.6%;
+  text-align: center;
+  line-height: 1;
+  color: white;
+  background-color:rgba(235, 211, 235, 0.486);
 }
 
 .links a:hover
 {
   color: hotpink;
+  text-decoration: none;
 }
 
 .links a:active
 {
   color: purple;
+  text-decoration: none;
 }
 
 .left
