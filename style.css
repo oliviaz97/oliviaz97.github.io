@@ -104,7 +104,7 @@ h4
 
 .links a:hover
 {
-  color: hotpink;
+  background: hotpink;
   text-decoration: none;
 }
 
